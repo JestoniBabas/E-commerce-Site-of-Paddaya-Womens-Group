@@ -1,0 +1,13 @@
+@font-face{
+    src: url(./fonts/Poppins-Regular.ttf);
+    font-family: Poppins;
+  }
+*, html, body{
+    padding: 0;
+    border: 0;
+    font-family: Poppins, sans-serif;
+}
+
+@media screen and (max-width: 600px){
+
+}
